@@ -73,16 +73,16 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 ---
 
 ## LR ROC Curve
-![ROC Curve](lr roc.png)
+![ROC Curve](lrroc.png)
 
 ---
 ## XGB ROC Curve
-![ROC Curve](xgb roc.png)
+![ROC Curve](xgbroc.png)
 
 ---
 
 ## Precision-Recall Curve
-![PR Curve](pr curve.png)
+![PR Curve](prcurve.png)
 
 ---
 
@@ -92,7 +92,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 ---
 
 ## Feature Importance
-![Feature Importance](feature importance.png)
+![Feature Importance](featureimportance.png)
 ---
 
 ## Future Improvements
