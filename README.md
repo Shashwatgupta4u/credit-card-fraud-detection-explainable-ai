@@ -70,7 +70,29 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 - SHAP Summary Plot
 - Feature Importance Plot
 - Train vs Test Stability Analysis
+---
 
+## LR ROC Curve
+![ROC Curve](lr roc.png)
+
+---
+## XGB ROC Curve
+![ROC Curve](xgb roc.png)
+
+---
+
+## Precision-Recall Curve
+![PR Curve](pr curve.png)
+
+---
+
+## SHAP Summary Plot
+![SHAP Plot](shap.png)
+
+---
+
+## Feature Importance
+![Feature Importance](feature importance.png)
 ---
 
 ## Future Improvements
